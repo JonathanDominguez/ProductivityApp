@@ -1,2 +1,2 @@
 # ProductivityApp
-Productivity app created using React.
+Productivity app created using React native.
